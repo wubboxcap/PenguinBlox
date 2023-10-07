@@ -1,6 +1,3 @@
-# PenguinBlox
-<center><img src="icon2.png" width="100"></center>
-PenguinBlox content is published here and then imported into the PenguinBlox project.
+# <img src="images/logo2.png" width="500">
 
-# Where are the contents?
-Contents are split into separate folders.
+PenguinBlox content is published here and then imported into the PenguinBlox project.
